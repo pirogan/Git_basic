@@ -1,2 +1,6 @@
 A = 13 ** 2
 print(A)
+if A > 0:
+    print('+')
+else:
+    print('-')
